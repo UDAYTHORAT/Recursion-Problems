@@ -1,3 +1,5 @@
+  Note : View it in the Code mode-->
+ 
   What is happening in this Question -->
 
   initially -->
