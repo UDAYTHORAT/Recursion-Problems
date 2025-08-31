@@ -27,7 +27,7 @@ public class Tower_of_Hanoi
   initially -->
 
   |      |     |
-  | 1     |     |
+  | 1    |    |
   | 2    |     |
   | 3    |     |
   S      H     D
