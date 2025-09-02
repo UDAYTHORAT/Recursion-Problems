@@ -2,7 +2,7 @@ public class Subsequesces_of_a_string
 {
 	public static void main(String[] args)
 	{
-		String a="abc";
+		String a="aaa";
 		Subsequences(a,0,"");
 
 	}
@@ -17,7 +17,9 @@ public class Subsequesces_of_a_string
 
 		//include the character -->
 		Subsequences(a,c+1,newString+ch);
+
 		//exclude the character-->
 		Subsequences(a,c+1,newString);
 	}
 }
+//
