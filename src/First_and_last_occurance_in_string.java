@@ -24,4 +24,5 @@ public class First_and_last_occurance_in_string {
 		}
 		return Occurence(a, c + 1, first, last, list);
 	}
+
 }
