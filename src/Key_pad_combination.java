@@ -76,7 +76,6 @@ public class Key_pad_combination {
 
      * print `fg`, `fh`, `fi`
 
-6. After all loops finish, the program ends.
-
+6. After all loops finish,Program end.
 
  */
