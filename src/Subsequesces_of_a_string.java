@@ -4,7 +4,7 @@ public class Subsequesces_of_a_string
 {
 	public static void main(String[] args)
 	{
-		String a="aabc";
+		String a="abc";
 		Subsequences(a,0,"");
 		ArrayList<String> lis =new ArrayList<>();
 		 SubSeq(a,0,"",lis);
